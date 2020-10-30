@@ -5,11 +5,11 @@ class Hello
   end
 
   def hello
-    "Hello."
+    "hello"
   end
 
   def goodbye
-    "Goodbye."
+    "goodbye"
   end
 
 end
